@@ -1,4 +1,4 @@
-
+puts "hhhh"
 # 1. Creational Design Pattern: Singleton
 class Logger
     @@instance = nil
